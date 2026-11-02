@@ -1,7 +1,8 @@
 
 
-
 name	cgpa	branch	rollno
 priya	8.9	cse	24cs204
 radha	9.2	cse	24cs205
 akshitha	7.0	cse	24cs206
+rahul	8.5	cse	24cs207
+rajveer	9.0	cse	24cs208
